@@ -1,4 +1,4 @@
-Simple Python implementation for SRP-PHAT and MUSIC for DOA and source localization 
+Simple Python implementation for SRP-PHAT and MUSIC for DOA and source localization for educational purposes
 
 consists of :
 
